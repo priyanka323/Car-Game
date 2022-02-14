@@ -8,3 +8,34 @@
     
 }
 */
+.hide{
+    display: none;
+}
+.car{
+    position: absolute;
+    bottom: 100px;
+    left: 200px;
+    width: 50px;
+    height: 100px;
+    background-color: blue;
+
+}
+
+.gameArea{
+    background-color: black;
+    width: 50vh;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    margin:  auto;
+}
+.line{
+    position: absolute;
+    width: 10px;
+    height: 100vh;
+    background-color: white;
+    margin-left: 45%;
+
+}
